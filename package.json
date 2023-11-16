@@ -1,5 +1,5 @@
 {
-    "name": "react-native-svg-charts",
+    "name": "react-native-svg-charts-updated",
     "version": "5.3.1",
     "private": false,
     "description": "Customizable charts (Line, Bar, Area, Pie, Circle, Progress) for React Native",
@@ -35,16 +35,16 @@
         "d3"
     ],
     "author": {
-        "name": "Jesper Lekland",
-        "email": "jesper.lekland@push2prod.se"
+        "name": "Andrei Brumaru",
+        "email": "andrei.brumaru@quickleaf.net"
     },
-    "homepage": "https://github.com/JesperLekland/react-native-svg-charts",
+    "homepage": "https://github.com/AndreiBru/react-native-svg-charts",
     "bugs": {
-        "url": "https://github.com/JesperLekland/react-native-svg-charts/issues"
+        "url": "https://github.com/AndreiBru/react-native-svg-charts/issues"
     },
     "repository": {
         "type": "git",
-        "url": "git://github.com/JesperLekland/react-native-svg-charts.git"
+        "url": "git://github.com/AndreiBru/react-native-svg-charts.git"
     },
     "license": "MIT",
     "dependencies": {
@@ -75,7 +75,7 @@
         "eslint-plugin-node": "^5.1.0",
         "eslint-plugin-promise": "^3.5.0",
         "eslint-plugin-react": "^7.7.0",
-        "eslint-plugin-react-native": "^2.3.2",
+        "eslint-plugin-react-native": ">=2.3.2",
         "eslint-plugin-standard": "^3.0.1",
         "husky": "^3.0.0",
         "jest": "20.0.1",
